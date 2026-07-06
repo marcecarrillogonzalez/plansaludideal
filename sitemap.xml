@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://plansaludideal.cl/</loc>
     <changefreq>weekly</changefreq>
@@ -24,11 +25,29 @@
     <loc>https://plansaludideal.cl/blog-ranking.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://plansaludideal.cl/blog-ranking.png</video:thumbnail_loc>
+      <video:title>Ranking de Isapres 2026: análisis de crecimiento y estabilidad</video:title>
+      <video:description>Análisis del ranking de Isapres 2026 en Chile, observando el crecimiento neto de afiliados, la fuga y el equilibrio entre ingresos y salidas.</video:description>
+      <video:content_loc>https://youtu.be/dMT9UwLf91s</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/dMT9UwLf91s</video:player_loc>
+      <video:publication_date>2026-01-26</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-mejor-isapre-clinica.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://plansaludideal.cl/blog-mejor-isapre-clinica-hero.png</video:thumbnail_loc>
+      <video:title>Cuál es la mejor Isapre en Chile 2026 según tu clínica</video:title>
+      <video:description>Guía sobre cómo elegir la mejor Isapre según la clínica donde deseas atenderte en Chile 2026.</video:description>
+      <video:content_loc>https://youtu.be/U_LbOx-BZB4</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/U_LbOx-BZB4</video:player_loc>
+      <video:publication_date>2026-03-10</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-ges-2026.html</loc>
@@ -39,11 +58,29 @@
     <loc>https://plansaludideal.cl/blog-isapre-fonasa.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://plansaludideal.cl/blog-isapre-fonasa.png</video:thumbnail_loc>
+      <video:title>Fonasa vs Isapre 2026: la decisión que protege tu salud</video:title>
+      <video:description>Video explicativo sobre qué hacer con tu 7% de salud en 2026 y cuándo conviene Fonasa o Isapre según tu ingreso y cobertura.</video:description>
+      <video:content_loc>https://youtu.be/Eu-kIRd-G1I</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/Eu-kIRd-G1I</video:player_loc>
+      <video:publication_date>2026-01-26</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-alza-2026.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://plansaludideal.cl/blog-ges-hero.png</video:thumbnail_loc>
+      <video:title>Alza precio base Isapres 2026: qué sube y qué hacer antes del 31 de mayo</video:title>
+      <video:description>Video explicativo sobre el alza de precio base de las Isapres en Chile 2026: qué Isapres suben, cuáles no, y qué opciones tienes como afiliado antes del 31 de mayo.</video:description>
+      <video:content_loc>https://youtu.be/S2sRK3GN0GE</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/S2sRK3GN0GE</video:player_loc>
+      <video:publication_date>2026-04-06</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-ley-corta.html</loc>
@@ -54,6 +91,15 @@
     <loc>https://plansaludideal.cl/blog-como-cotizar-isapre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://plansaludideal.cl/blog-como-cotizar-isapre-hero.png</video:thumbnail_loc>
+      <video:title>Cómo cotizar y contratar un plan de Isapre en Chile 2026</video:title>
+      <video:description>Guía práctica en video sobre los pasos clave para cotizar y contratar un plan de Isapre en Chile: qué definir antes, plan compensado, maternidad, DPS y cómo comparar coberturas reales.</video:description>
+      <video:content_loc>https://youtu.be/wSPnRx0rrdg</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/wSPnRx0rrdg</video:player_loc>
+      <video:publication_date>2026-02-10</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
   <url>
     <loc>https://plansaludideal.cl/privacidad.html</loc>
