@@ -3,26 +3,31 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://plansaludideal.cl/</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog.html</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://plansaludideal.cl/sobre-marcela-carrillo.html</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-pad-isapre-2026.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-ranking.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -37,6 +42,7 @@
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-mejor-isapre-clinica.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -51,11 +57,13 @@
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-ges-2026.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-isapre-fonasa.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -70,6 +78,7 @@
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-alza-2026.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -84,6 +93,7 @@
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-ley-corta.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -98,6 +108,7 @@
   </url>
   <url>
     <loc>https://plansaludideal.cl/blog-como-cotizar-isapre.html</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -112,11 +123,13 @@
   </url>
   <url>
     <loc>https://plansaludideal.cl/privacidad.html</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://plansaludideal.cl/terminos.html</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
