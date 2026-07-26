@@ -24,4 +24,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://plansaludideal.cl/sitemap.xml
+Sitemap: https://www.plansaludideal.cl/sitemap.xml
